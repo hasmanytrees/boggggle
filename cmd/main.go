@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hasmanytrees/cnd-go-curriculum/packages/boggle/"
+	"github.com/hasmanytrees/cnd-go-curriculum/packages/boggle/die"
 )
 
 var(
